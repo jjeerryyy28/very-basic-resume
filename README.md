@@ -1,2 +1,2 @@
 # very-basic-resume
-# link: https://jjeerryyy28.github.io/very-basic-resume/
+# link of fork repo: https://jjeerryyy28.github.io/very-basic-resume/
